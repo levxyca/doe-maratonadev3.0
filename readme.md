@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" width="250px" /><br>
+  <img src="/home/levxyca/maratonadev/public/logo.png" width="250px" /><br>
 </h1>
 <p align="center">
   <a href="https://rocketseat.com.br">
